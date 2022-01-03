@@ -1,0 +1,3 @@
+﻿  TrbleX.cpp
+C:\Users\suke\source\repos\TrbleX\TrbleX\TrbleX.cpp(73,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  TrbleX.vcxproj -> C:\Users\suke\source\repos\TrbleX\x64\Debug\TrbleX.exe
